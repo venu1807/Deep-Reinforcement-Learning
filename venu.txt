@@ -1,8 +1,9 @@
-<<<<<<< HEAD
+
 My nams in venugopal
+This is an amzing Journey 
 I have been doing my M.Sc
+I was asked to programm GUI in C++
 Master of Science in Robotic Systems Engineering
-||||||| merged common ancestors
-=======
-My nams in venugopal
->>>>>>> 8291934d7a3f08229e901fb15f2a68a7b7e1fe60
+
+
+
